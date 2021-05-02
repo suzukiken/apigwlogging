@@ -5,4 +5,4 @@ To deploy AWS ApiGateway which responds こんにちは logging to CloudWatch Lo
 * `npm install`
 * `cdk deploy`
 
-[description](https://figmentresearch.com/aws/apigateway-logging)
+[description](https://note.figmentresearch.com/aws/apigateway-logging)
